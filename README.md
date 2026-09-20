@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋🏻 Hii , I'm Aavesh <br>💻 Full Stack Developer <br>🤖 Building AI- Powered web applications <br>🌱Learning something new every day
 
 
